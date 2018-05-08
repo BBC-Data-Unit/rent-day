@@ -16,6 +16,7 @@ Additional visualisation was created by **Dan Wainwright** and **Clara Guibourg*
 * Scottish Government: [Private Sector Rent Statistics, Scotland, 2010 to 2017](http://www.gov.scot/Publications/2017/11/7528/downloads) - [direct link](http://www.gov.scot/Resource/0052/00527607.xlsm)
 * StatsWales: [Private sector rents by local authority, 1 January to 31 December 2017](https://statswales.gov.wales/Catalogue/Housing/Private-Sector-Rents) - [direct link](https://statswales.gov.wales/Download/File?fileId=408)
 * Office for National Statistics: median wage data for each local authority area in Great Britain  
+* [Excel workbook with analysis](https://github.com/BBC-Data-Unit/rent-day/blob/master/Rent%20Free%20Workbook.xlsx)
 
 ## Interviews and quotes
 
